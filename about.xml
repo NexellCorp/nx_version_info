@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VERSION_INFO>
+    <machines>
+        <machine>
+            <chipset name="nxp3220" />
+            <platform name="yocto_sumo" version="qt5.6" />
+            <bsp_version info="BSP_R2_P1" date="20200218" />
+        </machine>
+        <machine>
+            <chipset name="nxp4330" />
+            <platform name="android_nougat" version="7.1.2_r36" />
+            <bsp_version info="BSP_R2_P2" date="20200131" />
+        </machine>
+        <machine>
+            <chipset name="nxp4330" />
+            <platform name="yocto_sumo" version="qt5.6" />
+            <bsp_version info="BSP_R2_P2" date="20200131" />
+        </machine>
+        <machine>
+            <chipset name="s5p6818" />
+            <platform name="yocto_sumo" version="qt5.6" />
+            <bsp_version info="BSP_R2_P2" date="20200131" />
+        </machine>
+        <machine>
+            <chipset name="s5p6818" />
+            <platform name="android_nougat" version="7.1.2_r36" />
+            <bsp_version info="BSP_R2_P2" date="20200131" />
+        </machine>
+    </machines>
+</VERSION_INFO>
